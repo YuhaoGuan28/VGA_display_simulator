@@ -16,6 +16,7 @@ This is a Python-based tool designed to help digital system developers **visuali
 ---
 
 ## 🖼️ Demo
+- The simulator
 
 - Some of my work (Demo of GUI of a image filter) <VGA_simulator/img/demo.gif>:
 
