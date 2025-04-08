@@ -26,7 +26,7 @@ This is a Python-based tool designed to help digital system developers **visuali
   ![element example](VGA_simulator/examples/FONT30/A.png)
   
 - VHDL example "letter A" <VGA_simulator/examples/FONT12/A.vhd>:  
-[View full generated VHDL ROM file](exports/gui_pattern.vhd)
+[View full generated VHDL ROM file](VGA_simulator/examples/FONT30/A.vhd)
 
 ---
 
