@@ -17,11 +17,16 @@ This is a Python-based tool designed to help digital system developers **visuali
 
 ## 🖼️ Demo
 
-- Some of my work:  
+- Some of my work (Demo of GUI of a image filter) <VGA_simulator/img/demo.gif>:
+
   ![Example](VGA_simulator/img/demo.gif)
 
-- Selected Area Export Preview:  
-  ![Export Preview](images/export_rgb444.png)
+- Single GUI element example "letter A" <VGA_simulator/examples/FONT12/A.png>:
+
+  ![element example](VGA_simulator/examples/FONT30/A.png)
+  
+- VHDL example "letter A" <VGA_simulator/examples/FONT12/A.vhd>:  
+[View full generated VHDL ROM file](exports/gui_pattern.vhd)
 
 ---
 
