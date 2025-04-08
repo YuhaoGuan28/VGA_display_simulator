@@ -18,6 +18,8 @@ This is a Python-based tool designed to help digital system developers **visuali
 ## 🖼️ Demo
 - The simulator
 
+  ![simulator](VGA_simulator/img/simulator.png)
+
 - Some of my work (Demo of GUI of a image filter) <VGA_simulator/img/demo.gif>:
 
   ![Example](VGA_simulator/img/demo.gif)
@@ -26,7 +28,8 @@ This is a Python-based tool designed to help digital system developers **visuali
 
   ![element example](VGA_simulator/examples/FONT30/A.png)
   
-- VHDL example "letter A" <VGA_simulator/examples/FONT12/A.vhd>:  
+- VHDL example "letter A" <VGA_simulator/examples/FONT12/A.vhd>:
+
 [View full generated VHDL ROM file](VGA_simulator/examples/FONT30/A.vhd)
 
 ---
